@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-05-03_1022",
+    "name": "Arabian2",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,10 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 2,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -41,6 +44,12 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "3",
@@ -59,7 +68,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">مرحبا بكم</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\" data-toolbar=\"-mbrBtnMove\">تحميل</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">مرحبا بكم</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\" data-toolbar=\"-mbrBtnMove\">تحميل</a>"
               },
               {
                 "active": false,
@@ -74,7 +83,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\">مرحبا بكم</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\" data-toolbar=\"-mbrBtnMove\">تحميل</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">مرحبا بكم</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\" data-toolbar=\"-mbrBtnMove\">تحميل</a>"
               },
               {
                 "active": false,
@@ -89,7 +98,7 @@
                 "showText": false,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">مرحبا بكم</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">تحميل</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">مرحبا بكم</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">تحميل</a>"
               },
               {
                 "active": false,
@@ -105,7 +114,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/pVzjsC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">مرحبا بكم</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\" data-toolbar=\"-mbrBtnMove\">تحميل</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">مرحبا بكم</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\" data-toolbar=\"-mbrBtnMove\">تحميل</a>"
               }
             ],
             "fullScreen": true,
@@ -113,13 +122,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-0",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "center",
-              "color": "#ffffff"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -204,8 +207,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CASINO ARABIAN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goo.gl/pVzjsC\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://goo.gl/pVzjsC\" target=\"_blank\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\" target=\"_blank\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">CASINO ARABIAN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" target=\"_blank\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\" target=\"_blank\">DOWNLOAD</a></li>"
         }
       ]
     }
